@@ -31,9 +31,9 @@ The Quantum-Enhanced Climate Risk Insurance Model leverages both quantum computi
 
 ## Architecture
 ```
-┌─────────────┐      ┌────────────────┐      ┌───────────────┐
-│ Climate Data│ ───▶ │ Data Simulator │ ───▶ │ Quantum Engine│
-└─────────────┘      └────────────────┘      └───────────────┘
+┌─────────────┐      ┌────────────────┐      ┌────────────────┐ 
+│ Climate Data│ ───▶ │ Data Simulator │ ───▶ │ Quantum Engine │
+└─────────────┘      └────────────────┘      └─────────────── ┘
                                                          │
                                                          ▼
                                                 ┌────────────────┐
